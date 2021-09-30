@@ -1,0 +1,3 @@
+C:/ifmo/OOP/lab3new/cmake-build-debug/CMakeFiles/lab3new.dir
+C:/ifmo/OOP/lab3new/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ifmo/OOP/lab3new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
