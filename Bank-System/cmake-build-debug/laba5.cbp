@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="laba5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/ifmo/OOP/laba5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="laba5">
+				<Option output="C:/ifmo/OOP/laba5/cmake-build-debug/laba5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/ifmo/OOP/laba5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 laba5"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="laba5/fast">
+				<Option output="C:/ifmo/OOP/laba5/cmake-build-debug/laba5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/ifmo/OOP/laba5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 laba5/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/ifmo/OOP/laba5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/ifmo/OOP/laba5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/ifmo/OOP/laba5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/ifmo/OOP/laba5/AccountType.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/Bank.cpp">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/Bank.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/BankAccount.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/Client.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/ClientBuilder.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/CreditAccount.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/Date.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/DebitAccount.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/DepositAccount.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/Refill.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/SuspiciousAccount.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/Transactions.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/Transfer.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/Withdrawal.h">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/main.cpp">
+			<Option target="laba5"/>
+		</Unit>
+		<Unit filename="C:/ifmo/OOP/laba5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
